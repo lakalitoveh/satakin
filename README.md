@@ -1,0 +1,2 @@
+# satakin
+store
